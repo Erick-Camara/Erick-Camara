@@ -1,8 +1,8 @@
-<p align="center"> Bem vindos ao meu perfil 😄🚀</p>&nbsp;
+<h1 align="center"> Bem vindos ao meu perfil 😄🚀</h1>&nbsp;
 
-<p align="center">Olá pessoal! Eu sou o <strong>Erick Câmara</strong></p>&nbsp;
+<h2 align="center">Olá pessoal! Eu sou o <strong>Erick Câmara</strong></h2>&nbsp;
 
-<p align="center">Sou apaixonado por tecnologia e estudante de programação <strong>Front end</strong> focado em aprender essas tecnologias: <strong>HTML, CSS, JavaScript, TypeScript, Tailwind CSS, ReactJS, PHP, Laravel, Git e GitHub</strong> e muito mais...</p>&nbsp;
+<p align="center">Sou apaixonado por tecnologia e um estudante na area de programação <strong>Front end</strong> focado em aprender essas tecnologias: <strong>HTML, CSS, JavaScript, Tailwind CSS, ReactJS, PHP, Laravel, Git e GitHub</strong> e muito mais...</p>&nbsp;
 
 <p align="center">Além disso, gosto de construir projetos pessoais e produzir conteúdos para minhas redes sociais.</p>&nbsp;
 
@@ -16,30 +16,23 @@
 
 ## My Skills
 
-#### Main Stack:
+#### Tecnologias que eu uso e estudo atualmente:
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+)&nbsp;
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-#### Secondary Stack:
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-
-#### Studying in this moment:
+#### Tecnologias que pretendo aprender:
 
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
-
-#### Databases:
-
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-
-#### Workstation Tools:
-
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 
 &nbsp;
 &nbsp;
