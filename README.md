@@ -1,5 +1,9 @@
+<p align="center"> Bem vindos ao meu perfil 😄🚀</p>&nbsp;
 
-<p align="center">Sou apaixonado por tecnologia e estudante de programação Front end focado em aprender essas tecnologias: HTML, CSS, JavaScript, TypeScript, Tailwind CSS, ReactJS, PHP, Laravel, Git e GitHub e muito mais...</p>&nbsp;
+<p align="center">Olá pessoal! Eu sou o <strong>Erick Câmara</strong></p>&nbsp;
+
+<p align="center">Sou apaixonado por tecnologia e estudante de programação <strong>Front end</strong> focado em aprender essas tecnologias: <strong>HTML, CSS, JavaScript, TypeScript, Tailwind CSS, ReactJS, PHP, Laravel, Git e GitHub</strong> e muito mais...</p>&nbsp;
+
 <p align="center">Além disso, gosto de construir projetos pessoais e produzir conteúdos para minhas redes sociais.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
